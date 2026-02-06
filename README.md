@@ -1,2 +1,1 @@
-# gh_tf_repo-infra
-infra Code for Repos
+# This infra repository is for infra devs
